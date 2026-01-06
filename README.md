@@ -15,6 +15,7 @@ The dataset combines images from three sources:
 
 **Total**: 3,211 image-mask pairs in PNG format
 
+
 ### Dataset Structure
 ```
 Dataset/ChestXray/
